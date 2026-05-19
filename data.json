@@ -1,0 +1,113 @@
+{
+  "name": "Hilmi Syamsudin",
+  "avatarUrl": "assets/images/user.png",
+  "title": "Tech Enthusiast · Android Developer · PC Master Race",
+  "location": "Pati, Central Java, Indonesia",
+  "email": "hilmisyamsudin@protonmail.com",
+  "summary": "Trying to do better",
+  "note": "Farewell, my keen hunter. Fear the blood",
+  "logoUrl": "assets/images/slop-brand.png",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hilmi-syamsudin-22510825b/",
+      "icon": "mdi:linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/hysint",
+      "icon": "mdi:github"
+    },
+    {
+      "name": "Steam",
+      "url": "https://steamcommunity.com/profiles/76561198402147473/",
+      "icon": "mdi:steam"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kotlin",
+      "badge": "https://img.shields.io/badge/Kotlin-%23009DFF.svg?style=for-the-badge&logo=kotlin&logoColor=white"
+    },
+    {
+      "name": "Python",
+      "badge": "https://img.shields.io/badge/Python-%23009DFF.svg?style=for-the-badge&logo=python&logoColor=white"
+    },
+    {
+      "name": "C++",
+      "badge": "https://img.shields.io/badge/C%2B%2B-%23009DFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+    },
+    {
+      "name": "HTML",
+      "badge": "https://img.shields.io/badge/HTML-%23009DFF.svg?style=for-the-badge&logo=html5&logoColor=white"
+    },
+    {
+      "name": "CSS",
+      "badge": "https://img.shields.io/badge/CSS-%23009DFF.svg?style=for-the-badge&logo=css3&logoColor=white"
+    },
+    {
+      "name": "JS",
+      "badge": "https://img.shields.io/badge/JavaScript-%23009DFF.svg?style=for-the-badge&logo=javascript&logoColor=white"
+    }
+  ],
+  "tools": [
+    {
+      "name": "VSCode",
+      "badge": "https://img.shields.io/badge/VSC-%23009DFF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0yMS4yODkgNC4xNTZsLTQuMTEzLTEuOTc5YTEuMjQgMS4yNCAwIDAgMC0xLjQyMi4yNGwtNy44OCA3LjE5TDQuNDQgNi45OTlhLjgzLjgzIDAgMCAwLTEuMDY0LjA0NmwtMS4xIDFhLjgzLjgzIDAgMCAwIDAgMS4yMzFsMi45NzUgMi43MjNsLTIuOTc4IDIuNzE4YS44My44MyAwIDAgMCAwIDEuMjNsMS4xIDFhLjgzLjgzIDAgMCAwIDEuMDY3LjA1MWwzLjQzNC0yLjYwN2w3Ljg4MyA3LjE5M2ExLjI0IDEuMjQgMCAwIDAgMS40Mi4yNGw0LjExNy0xLjk4MkExLjI1IDEuMjUgMCAwIDAgMjIgMTguNzEzVjUuMjgxYTEuMjUgMS4yNSAwIDAgMC0uNzA5LTEuMTI2Wk0xNy4wMDEgMTYuNTRsLTUuOTgxLTQuNTQxbDUuOTgxLTQuNTRaIiAvPgo8L3N2Zz4K&logoColor=white"
+    },
+    {
+      "name": "Android Studio",
+      "badge": "https://img.shields.io/badge/Android_Studio-%23009DFF.svg?style=for-the-badge&logo=androidstudio&logoColor=white"
+    },
+    {
+      "name": "Figma",
+      "badge": "https://img.shields.io/badge/Figma-%23009DFF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTguNjY3IDkuNDE3YTIuNTgzIDIuNTgzIDAgMSAwIDAgNS4xNjZoMi41ODNWOS40MTd6bTIuNTgzLTEuNUg4LjY2N2EyLjU4MyAyLjU4MyAwIDAgMSAwLTUuMTY3aDIuNTgzem0xLjUtNS4xNjd2NS4xNjdoMi41ODNhMi41ODQgMi41ODQgMCAwIDAgMC01LjE2N3ptMi41ODMgNi42NjZhMi41ODMgMi41ODMgMCAwIDAtMi41ODMgMi41NDJ2LjA4M2EyLjU4MyAyLjU4MyAwIDEgMCAyLjU4My0yLjYyNW0tNi42NjYgNi42NjdhMi41ODQgMi41ODQgMCAxIDAgMi41ODMgMi41ODR2LTIuNTg0eiIgY2xpcC1ydWxlPSJldmVub2RkIiAvPgo8L3N2Zz4K&logoColor=white"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Android Developer",
+      "company": "DataIns - PT Global Data Inspirasi",
+      "employmentType": "Internship",
+      "employmentStatus": false,
+      "startDate": "2024-03",
+      "endDate": "2024-07",
+      "location": "Yogyakarta, Indonesia · Remote"
+    },
+    {
+      "role": "Android Developer Cohort",
+      "company": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
+      "employmentStatus": false,
+      "startDate": "2023-08",
+      "endDate": "2024-01",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "school": "Universitas Negeri Semarang",
+      "degree": "Bachelor of Computer Science",
+      "fieldOfStudy": "Computer Science",
+      "educationStatus": false,
+      "startDate": "2021-08",
+      "endDate": "2025-09"
+    }
+  ],
+  "projects": [
+    {
+      "title": "bbswfbblwnuac",
+      "desc": "Bloodborne Steam Wrapper For BB Launcher Windows No UAC",
+      "link": "https://github.com/hysint/bbswfbblwnuac"
+    },
+    {
+      "title": "8 Directional Game Prototype",
+      "desc": "Game prototype with 8 directional movement using C++ and raylib",
+      "link": "https://github.com/hysint/8directional-prototype"
+    },
+    {
+      "title": "YOLO-GFL (GhostNet Fire Lightweight)",
+      "desc": "My final year project, modifying YOLOv12n using GhostNet-Based Module",
+      "link": "https://github.com/hysint/yolo-gfl"
+    }
+  ]
+}
