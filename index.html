@@ -4,43 +4,34 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Sloppage</title>
     <link rel="stylesheet" href="css/styles.css" />
-    <link rel="icon" href="assets/icons/icon.png" type="image/icon type" />
+    <link rel="icon" href="assets/icons/icon.png" type="image/png" />
     <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
   </head>
 
   <body data-theme="dark">
     <div class="container">
       <header>
-        <div class="avatar" id="avatar"></div>
+        <div class="upper-profile">
+          <div class="avatar" id="avatar"></div>
 
-        <div class="header-right">
-          <div class="upper-profile">
-            <div class="profile">
-              <div class="name">
-                <h1 id="name"></h1>
-                <p id="title"></p>
-                <p id="location"></p>
-              </div>
-            </div>
-            <div class="controls">
-              <button
-                class="btn secondary"
-                id="themeToggle"
-                title="Toggle theme"
-                aria-label="Toggle theme"
-              >
-                <iconify-icon
-                  id="themeIcon"
-                  icon="material-symbols:dark-mode-rounded"
-                ></iconify-icon>
-              </button>
+          <div class="profile">
+            <div class="name">
+              <h1 id="name"></h1>
+              <p id="title"></p>
+              <p id="location"></p>
             </div>
           </div>
 
-          <div class="lower-profile">
-            <div class="badges" id="skills"></div>
-            <div class="badges" id="tools"></div>
+          <div class="controls">
+            <button class="btn" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">
+              <iconify-icon id="themeIcon"></iconify-icon>
+            </button>
           </div>
+        </div>
+
+        <div class="lower-profile">
+          <div class="badges" id="skills"></div>
+          <div class="badges" id="tools"></div>
         </div>
       </header>
 
@@ -59,29 +50,24 @@
           <div class="section-title">Socials</div>
           <div class="socials" id="socials"></div>
         </div>
-        <div class="logo" id="logo"></div>
+
+        <div id="logo"></div>
       </aside>
 
       <main class="content">
         <div class="card">
-          <div class="section-head">
-            <div class="section-title">Experience</div>
-          </div>
+          <div class="section-title">Experience</div>
           <div id="experience" class="list"></div>
         </div>
 
         <div class="card">
-          <div class="section-head">
-            <div class="section-title">Education</div>
-          </div>
+          <div class="section-title">Education</div>
           <div id="education" class="list"></div>
         </div>
 
         <div class="card">
-          <div class="section-head">
-            <div class="section-title">Projects</div>
-          </div>
-          <div class="list" id="projects"></div>
+          <div class="section-title">Projects</div>
+          <div id="projects" class="list"></div>
         </div>
       </main>
     </div>
